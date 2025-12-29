@@ -1,0 +1,18 @@
+{
+  "name": "briefly",
+  "version": "1.0.0",
+  "description": "A lightweight URL shortener API built with pure Node.js and MongoDB, focusing on high performance and zero-dependency routing.",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "keywords": [
+    "shorter link"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "mongodb": "^7.0.0"
+  }
+}
